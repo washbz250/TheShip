@@ -52,4 +52,8 @@ What do you say?
 
 **"Why am I here? Who am I?"**
 "Oh dear, the years must have given more serious damage than I thought."
-"Your name is
+"Your name is " name ". You like many others were sent on the ship."
+"The Ship, according to legend, was sent from someplace called Terra"
+"years ago. A few who went on the ship, including you, have been frozen"
+"in a sort of stasis since the ship launched. Nobody knows why we left"
+"terra." 
